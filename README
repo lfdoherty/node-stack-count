@@ -1,0 +1,4 @@
+
+Used for count-style profiling of specific code paths, when "node --prof" isn't giving you enough.
+
+Counts all or some specified fraction of the calls made at a given point or points, and produces a report of the counts for the bottom-up stack trace.

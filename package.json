@@ -1,0 +1,14 @@
+{
+  "name": "stack-count",
+  "version": "0.0.1",
+  "description": "A profiling tool for counting calls and aggregating their call stack.",
+  "main": "./main",
+  "author": "Liam Doherty",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
